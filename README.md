@@ -1,4 +1,4 @@
 todolist
 ========
 
-An app for people live more happier
+An app for people to live more happier
